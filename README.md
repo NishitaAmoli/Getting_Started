@@ -12,3 +12,4 @@ Find fibonacci number for given Nth term.
 Find Nth tribonacci number.
 Digit traversal (print individual digits of num in reverse order). 
 Count digits that divides number completely.
+Check if given number is an ARMSTRONG number or not.
