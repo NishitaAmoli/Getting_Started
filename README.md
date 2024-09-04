@@ -10,3 +10,5 @@ Calculate power of any given number x using itteration  (x ^ n).
 From 1 to 100 print "Fizz" if number is multiple of 3, "Buzz" if number is multiple of 5, "FizzBuzz" if number is multiple of 3 and 5.
 Find fibonacci number for given Nth term.
 Find Nth tribonacci number.
+Digit traversal (print individual digits of num in reverse order). 
+Count digits that divides number completely.
