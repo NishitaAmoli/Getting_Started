@@ -15,3 +15,4 @@ Count digits that divides number completely.
 Check if given number is an ARMSTRONG number or not.
 Rotate given number.
 Various patterns (W,X,etc)
+More pattern printing.
