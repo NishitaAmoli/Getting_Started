@@ -16,3 +16,5 @@ Check if given number is an ARMSTRONG number or not.
 Rotate given number.
 Various patterns (W,X,etc)
 More pattern printing.
+Finding even or odd number and max and min number using Ternary operator.
+Basic calculator using Switch case.
