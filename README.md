@@ -18,3 +18,5 @@ Various patterns (W,X,etc)
 More pattern printing.
 Finding even or odd number and max and min number using Ternary operator.
 Basic calculator using Switch case.
+Reverse Integer.
+Check if number is same after performing double reversal or not.
